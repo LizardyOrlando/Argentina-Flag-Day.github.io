@@ -8,6 +8,7 @@
 body{
     background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(128,234,255,1) 50%, rgba(0,212,255,1) 100%);
 }
+/* estilos del nav */
 li, a, button {
     font-weight: 500;
     font-size: 16px;
@@ -61,7 +62,7 @@ button{
 button:hover{
     background-color: gold;
 }
-
+/* estilos de la sección */
 #titulo{
     margin: 20px;
     text-align: center;
@@ -83,7 +84,7 @@ section .subtitulo{
     font-weight: 400;
     text-decoration:underline gold;
 }
-
+/* estilos del footer */
 footer{
     margin-top: 100px;
     height: 70px;
