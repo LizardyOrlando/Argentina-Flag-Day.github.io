@@ -124,3 +124,22 @@ footer{
 .fotos > h4{
     padding: 0px 40px;
 }
+
+.puntuaje{
+    text-align: center;
+    color:black;
+    margin-top: 40px;
+}
+#suma,#resta{
+    color: white;
+    width: 100px;
+    height: 50px;
+    background: grey;
+    border: none;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+#valor{
+    margin-top: 10px;
+    font-size: 30px;
+}
